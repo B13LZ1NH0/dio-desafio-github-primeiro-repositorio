@@ -1,0 +1,9 @@
+Até o momento, meu aprendizado sobre o Curso de desenvolvimento de jogos 
+
+No campo do desenvolvimento de jogos, compreendi a importância do conhecimento sobre as tendências do mercado e as habilidades necessárias para ingressar nesse setor em constante evolução. A introdução ao desenvolvimento e criação de jogos proporcionou insights sobre os processos criativos e técnicos envolvidos na concepção de jogos digitais.
+
+A abordagem relacionada à educação gratuita destaca a acessibilidade ao aprendizado, enfatizando recursos e plataformas que oferecem conhecimento de qualidade sem custos. Além disso, a ênfase na empregabilidade destaca a importância de adquirir habilidades práticas e relevantes para se destacar no mercado de trabalho.
+
+A compreensão do versionamento de código utilizando Git e GitHub se revelou crucial para colaboração eficiente em projetos de desenvolvimento de jogos, proporcionando um ambiente controlado para o rastreamento de alterações e a colaboração entre membros da equipe.
+
+Em resumo, até agora, absorvi conhecimentos sobre as dinâmicas do mercado de desenvolvimento de jogos, os elementos-chave na criação de jogos, a disponibilidade de recursos educacionais gratuitos e a importância do versionamento de código para uma colaboração eficaz. Esses aprendizados combinados constituem uma base sólida para o avanço na carreira dentro desse emocionante campo.
